@@ -1,0 +1,6 @@
+
+.icon-videocam:before { content: '\e800'; } /* '' */
+.icon-camera:before { content: '\e801'; } /* '' */
+.icon-home:before { content: '\e802'; } /* '' */
+.icon-user:before { content: '\e803'; } /* '' */
+.icon-mail-alt:before { content: '\f0e0'; } /* '' */
